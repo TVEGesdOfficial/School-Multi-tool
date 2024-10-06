@@ -10,3 +10,4 @@ and after extracting the file run the program and it is good.
 Thank you for using this tool it may have taken me a few minutes to code this,
 yet I will love to hear your ideas
 if there are any Issues make sure to report them to me and I will fix them when I get the chance.
+# BTW THIS IS OPEN SOURCE I DON'T CARE IF IT GETS SKIDDED
